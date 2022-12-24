@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Akif.
-I student at Firat University, department of computer engineering.
+A student at Firat University, department of computer engineering.
 <!--
 **Soresta/Soresta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
