@@ -3,7 +3,7 @@ A student at Firat University, department of computer engineering.
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soresta&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soresta&theme=black&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
