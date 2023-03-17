@@ -4,7 +4,7 @@ A student at Firat University, department of computer engineering.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soresta&theme=codeSTACKr&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
-
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.stargazers.worldmap.svg" style="max-width: 100%;">
 
 
 <!--
