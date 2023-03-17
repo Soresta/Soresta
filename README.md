@@ -6,10 +6,10 @@ A student at Firat University, department of computer engineering.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soresta&theme=codeSTACKr&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=soresta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=soresta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=codeSTACKr&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soresta&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/soresta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soresta&theme=codeSTACKr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/soresta/github-readme-stats)
 
 
 
