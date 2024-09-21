@@ -2,7 +2,7 @@
 
 ###
 
-<img src="![giphy](https://github.com/user-attachments/assets/29d1d611-8e5b-4bde-86b1-83a7c0c53ae0)"  height="450"/>
+![giphy](https://github.com/user-attachments/assets/29d1d611-8e5b-4bde-86b1-83a7c0c53ae0)
 
 <br clear="both">
 
@@ -49,7 +49,7 @@
 # 🤝 Connect With Me 
 
 <div align="left">
-    <a href="www.linkedin.com/in/@akif-karaca" target="_blank">
+    <a href="https://www.linkedin.com/in/akif-karaca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@nawascode" target="_blank">
