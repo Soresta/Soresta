@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Akif.
-A student at Firat University, department of computer engineering.
 <h2 align="left">Hi 👋! My name is Akif and I'm a 3.rd year student at Fırat University</h2>
 
 ###
