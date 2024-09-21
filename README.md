@@ -12,6 +12,7 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM242b2pmOHR0cXBwZndjazJtY2dpaWs2MWhhOHJiaG1hZ21ydW1sNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KyIaRm6jYlAGyJ86zH/giphy.gif"  />
 
 ###
+<h2 align="left">Tools</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -44,6 +45,7 @@
 </div>
 
 ###
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
   <a href="https://www.youtube.com/@SorestCode" target="_blank">
@@ -72,8 +74,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Soresta/count.svg?"  />
-</div>
+![](https://komarev.com/ghpvc/?username=Soresta&color=blueviolet)
 
 ###
