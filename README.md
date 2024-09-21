@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Tuna. 😊
+<h2 align="left">Hi there, I'm Akif 😊
 Java Developer | Student</h2>
 
 ###
