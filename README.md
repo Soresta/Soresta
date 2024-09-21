@@ -66,6 +66,10 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Soresta/Soresta/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
@@ -73,20 +77,3 @@
 </div>
 
 ###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Soresta/Soresta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Java and Html
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...Email:nawascode@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
