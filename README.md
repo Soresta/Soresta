@@ -43,7 +43,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-###
+
 # 🤝 Connect With Me 
 
 <div align="left">
@@ -65,7 +65,7 @@
   </a>
 </div>
 
-###
+
 # Watch The Snake eating my contributions 
 <br clear="both">
 
