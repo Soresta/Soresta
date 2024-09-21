@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Akif and I'm a 3.rd year student at Fırat University</h2>
+<h2 align="left">Hi there, I'm Tuna. 😊
+Java Developer | Student</h2>
 
 ###
 
