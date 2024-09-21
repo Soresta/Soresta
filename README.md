@@ -66,7 +66,9 @@
 
 ###
 
-![snake gif](https://github.com/Soresta/Soresta/blob/output/github-contribution-grid-snake.gif)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Soresta/Soresta/output/snake.svg" alt="Snake animation" />
 
 ###
 
