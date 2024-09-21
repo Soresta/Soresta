@@ -2,16 +2,17 @@
 
 ###
 
+<img src="![giphy](https://github.com/user-attachments/assets/29d1d611-8e5b-4bde-86b1-83a7c0c53ae0)"  height="450"/>
+
+<br clear="both">
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soresta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Soresta&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-![giphy](https://github.com/user-attachments/assets/29d1d611-8e5b-4bde-86b1-83a7c0c53ae0)
-
-<br clear="both">
 
 # 🛠️ Tools
 
