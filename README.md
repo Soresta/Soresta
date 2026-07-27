@@ -8,11 +8,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soresta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Soresta&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 
 # 🛠️ Tools
 
