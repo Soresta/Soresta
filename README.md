@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Akif 😊| Computer Engineering (3) Student At Fırat University</h2>
+<h2 align="left">Hi there, I'm Akif 😊| Computer Engineering (4) Student At Fırat University</h2>
 
 ###
 
